@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "CinemaCity",
+			"path": "../CinemaCity"
+		},
+		{
+			"name": "AlmaNorte",
+			"path": "../AlmaNorte"
+		},
+		{
+			"name": "Moze",
+			"path": "../Moze"
+		},
+		{
+			"name": "pwmauser",
+			"path": "../pwmauser"
+		}
+	],
+	"settings": {}
+}
